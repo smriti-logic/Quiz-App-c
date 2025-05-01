@@ -21,3 +21,4 @@ at the end of the quiz. It is designed to help beginners practice basic programm
   git clone
   https://github.com/smriti-logic/Quiz-App-C.git
 ---
+## screenshot : ![https://github.com/smriti-logic/Quiz-App-c/blob/main/Screenshot%202025-05-02%20025507.png]
