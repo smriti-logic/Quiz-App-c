@@ -14,5 +14,10 @@ at the end of the quiz. It is designed to help beginners practice basic programm
 -**C Compiler**: A C compiler like GCC or any C IDE (code : blocks, Dev C++, etc).
 -**Operating system** : The app runs on any operating system with a C compiler installed (Windows,Linux,macOS).
 ---
+##Tech stack : HTML,CSS,Javascript.
+---
 ##Istallation 1. Clone this repostry or download the source code files.
+  '''bash
+  git clone
+  https://github.com/smriti-logic/Quiz-App-C.git
 ---
